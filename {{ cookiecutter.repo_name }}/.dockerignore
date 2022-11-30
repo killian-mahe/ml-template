@@ -1,0 +1,6 @@
+notebooks/
+data/**/*
+reports/
+references/
+models/
+.dockerignore
